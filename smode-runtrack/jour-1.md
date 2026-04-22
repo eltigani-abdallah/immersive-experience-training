@@ -1,53 +1,47 @@
 
-# Introduction
-
-smode is a software that is used to create scalable interactive installations used in festivals, TV, concerts etc.
-
-
 # SMODE
 
 ## installation
 
-install smode community from smode.io
+install smode community (latest version) from smode.io
 
 
 ## directory 
-create the following hierarchy in the **external** disk (D:)
+create the following directories in the **external** disk (D:)
 
-`repository-motionlab-yourname`
-
-	audio
-	export
-	media
-	project
-	stuff
-	compo
+	`repository-motionlab-yourname`
+		audio
+		export
+		media
+		project
+		stuff
+		compo
 
 ## creating a new composition
 
-then in smode go to browse files from the left hand menu, then select the folder icon in the top of the center menu and add the repository created earlier
+In smode go to browse files from the left hand menu, then select the folder icon in the top of the center menu and add the repository created earlier
 
 once done, go to `file>new standalone compo` from the nav bar at the very top of the window 
 
-frame rate = 60 (depends on physical material)
+frame rate = 60 (depends on physical installation)
 
-rest stays the same
+rest stays default
 
 
 
 ## interface
 
-left: file and folder browser ^file-folder-browser
+left: file and folder browser
 	you may right click files and folders and click "reveal in file explorer" in order to view the files in windows file explorer
 	you can rename files and folders in the file browser by right clicking and selecting `rename`
 
-center top: project workspace ^project-workspace
+center top: project workspace
 
-center bottom: timeline ^timeline
+center bottom: timeline
 
-right up: object list ^object-list
+right up: object list
 
-right down: parameters of objects and files ^inspector
+right down: parameters of objects and files selected
 
 ### modifying the workspace
 
@@ -58,7 +52,7 @@ the interface is module based, it can be customized by clicking right at the top
 
 in the nav bar `edit> preferences` you can edit the video input and outputs
 
-in `Media > Auto Save` you may turn on or off the auto save feature, change the freauency of auto save and change the maximum number of versions to auto save
+in `edit>preferences>Media > Auto Save` you may turn on or off the auto save feature, change the frequency of auto save and change the maximum number of versions to auto save
 
 ## on air mode
 
@@ -70,6 +64,7 @@ in `edit>preferences>media>previews computing` changing it to off will allow for
 ## folder configuration
 
 in `edit>preferences>about>reveal configuration in explorer` you may save and restore settings specific to smode in order to move the smode configuration to another machine (for example moving settings to motion lab from container 11)
+
 **THE SMODE VERSION MUST BE THE SAME ON BOTH DEVICES** 
 
 ## creating a device
@@ -93,7 +88,7 @@ you may output a composition by using the output button (top right of the screen
 
 ## adding content
 
-in the [object hierarchy](#^object-list) window you may create a test pattern by right clicking and going to `2D Layers> Test Pattern`.
+in the object hierarchy window you may create a test pattern by right clicking and going to `2D Layers> Test Pattern`.
 
 ### adding a new composition
 
