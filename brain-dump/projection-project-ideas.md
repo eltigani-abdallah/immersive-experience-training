@@ -5,7 +5,7 @@
 ^projection-map
 
 
-![[projection-map.png]]
+![projection map](projection-map.png)
 
 # Fireball Combat
 
@@ -34,7 +34,7 @@ proposed by Mehdi
 - players: 4
 - genre: real time shooter(?)
 
-![[concept de fou malade.png]]
+![laser-bullet image](laser-bullet.png)
 
 
 walls are Heads Up Display
