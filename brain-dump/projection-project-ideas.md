@@ -88,6 +88,7 @@ if the energy shape is far enough from the player then the player gets a reward 
 
 ![interactive kahoot](interactive-kahoot.png)
 
+- [Miro link](https://miro.com/app/board/uXjVHaO50GU=/?share_link_id=792621640516)
 - Players: 50
 - Genre: puzzle, quiz
 - Desc:
