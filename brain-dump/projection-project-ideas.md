@@ -84,3 +84,24 @@ if the energy shape is far enough from the player then the player gets a reward 
 
 
 
+# Kahoot
+
+![interactive kahoot](interactive-kahoot.png)
+
+- Players: 50
+- Genre: puzzle, quiz
+- Desc:
+Kahoot with elimination using body tracking
+
+
+
+- Gameplay
+
+> questions show on one wall, players go into spaces on the floor depending on what answer they choose. zones increase in size as more players go into them, at the end of the timer the correct answer is shown at the end and the players with the wrong choices get eliminated until one winner remains
+
+
+- Setup:
+
+> - Jar: Questions and zones assigned to answers
+> - Floor: Zones and player amounts on the floor
+> - Cour: Amount of rounds remaining and timer before the end of the round
